@@ -1,0 +1,25 @@
+{
+  "userId": "ayadav32",
+  "firstName": "Ashish",
+  "lastName": "yadav",
+  "phoneNumber":"9880711544",
+  "email": "ayadav32@csc.com",
+  "password":"Ashish",
+  "secretQuestion": [
+    {
+      "count": "1",
+      "question":"what is your nick name",
+      "answer":"beenu"
+    },
+    {
+      "count": "2",
+      "question":"what is your best friend",
+      "answer":"jhon"
+    },
+    {
+      "count": "3",
+      "question":"what is your first phone number",
+      "answer":"9880711544"
+    }
+  ]
+}
